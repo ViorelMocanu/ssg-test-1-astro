@@ -44,6 +44,8 @@ There's nothing special about `src/components/`, but that's where we like to put
 
 Any static assets, like images, can be placed in the `public/` directory.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/01e40750-bc4b-447c-9cd2-7cadacf27fdc/deploy-status)](https://app.netlify.com/sites/relaxed-unicorn-3a2f7b/deploys)
+
 ## 🧞 Commands
 
 All commands are run from the root of the project, from a terminal:
