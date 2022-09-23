@@ -1,5 +1,7 @@
 A test to see which of the Static Site Generators I should use for my personal website and blog.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/01e40750-bc4b-447c-9cd2-7cadacf27fdc/deploy-status)](https://app.netlify.com/sites/relaxed-unicorn-3a2f7b/deploys)
+
 # Astro Starter Kit: Blog
 
 ```
