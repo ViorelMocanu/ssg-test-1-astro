@@ -2,11 +2,10 @@
 
 A test to see which of the Static Site Generators I should use for my personal website and blog.
 
-Tutorial at: <https://docs.astro.build/en/tutorial/0-introduction/>
-Components at: <https://github.com/markteekman/accessible-astro-starter> + <https://www.accessible-astro.dev/accessible-components/> + <https://github.com/markteekman/accessible-astro-components> + <https://github.com/shaunchander/astro-pwa-starter>
-Migration & next steps: <https://docs.astro.build/en/guides/migrate-to-astro/from-wordpress/> editable at <https://github.com/withastro/docs/blob/main/src/content/docs/en/guides/migrate-to-astro/from-wordpress.mdx> and then <https://docs.astro.build/en/guides/cms/> and then maybe <https://astro.build/themes/submit>
-
-Integrations at: <https://astro.build/integrations/>
+- Tutorial at: <https://docs.astro.build/en/tutorial/0-introduction/>
+- Components at: <https://github.com/markteekman/accessible-astro-starter> + <https://www.accessible-astro.dev/accessible-components/> + <https://github.com/markteekman/accessible-astro-components> + <https://github.com/shaunchander/astro-pwa-starter>
+- Migration & next steps: <https://docs.astro.build/en/guides/migrate-to-astro/from-wordpress/> editable at <https://github.com/withastro/docs/blob/main/src/content/docs/en/guides/migrate-to-astro/from-wordpress.mdx> and then <https://docs.astro.build/en/guides/cms/> and then maybe <https://astro.build/themes/submit>
+- Integrations at: <https://astro.build/integrations/>
 
 List of interesting integrations to consider:
 
